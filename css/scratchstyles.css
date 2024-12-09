@@ -1,0 +1,38 @@
+.navbar {
+    color: white;
+}
+
+.sidebar {
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+    list-style-type: none;
+}
+
+.maincontent {
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+}
+
+h1, h2, h3, h4  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white
+}
+
+.navanchor {
+    color: white;
+    list-style-type: none;
+}
+
+body {
+    background-color: rgb(138, 28, 28);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.standings {
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align: left;
+}
